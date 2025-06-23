@@ -1,3 +1,4 @@
+
 # Infrared-gun
 Its a non contact temperature meter made by @souptik-samanta
 ![alt text](img2/image-6.png)
@@ -22,3 +23,4 @@ Its a non contact temperature meter made by @souptik-samanta
 * BOM 
 here https://docs.google.com/spreadsheets/d/1CJmj2ZeR5zD6k4xkK5MPgWyc9Sze1-qekb7O28ZE8Ps/edit?usp=sharing
 And cost of assembly
+
