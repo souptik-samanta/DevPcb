@@ -17,13 +17,13 @@ Finished making the shcmeatic
 Put the right values capacitor said in Datasheet (followed some shetchy schmatic from taobao)
 I will later check everything before ordering dw..
 Acc to the datasheet the capacitor value was given 20pF but i think thats wrong i will check on that later tho..
-![Schm day 3](./image.png)
+![Schm day 3](./img/image.png)
 * Day - 4/P1 (1.2Hrs)
 I drew shapes for the placement of parts on the pcb and shape for pcb and scew the 2d image of the temperature gun also i will add a time/clock thingy on the dock with a usb c type port microcontroller with wifi preferebly/without also works lol.
-![alt text](./image-1.png) 
+![alt text](./img/image-1.png) 
 * Day 4/P2 (1hrs)
 Here is a pcb 
-![alt text](./image-10.png)
+![alt text](./img/image-10.png)
 * Day 4/P3 (6hrs)
 After long hours or work 
 FINALLY FINISHED HECK YEAH
