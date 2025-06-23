@@ -48,16 +48,17 @@ The **STMicroelectronics STM32F103C8** is an ARM Cortex-M3 32-bit microcontrolle
 ### EXPANDED
 | Designator           | Footprint                                                       | Qty | Value              | LCSC Part # | Price ($) | Notes                      |
 |----------------------|------------------------------------------------------------------|-----|---------------------|-------------|-----------|----------------------------|
-| C1, C2, C3, C4       | 0402                                                             | 4   | 20pF               |             | 0.11      | Total: 47.55              |
+| C1, C2, C3, C4       | 0402                                                             | 4   | 20pF               |             | 0.11      | Total: 49.55              |
 | C10, C6, C7, C8, C9  | 0402                                                             | 5   | 100nF              |             | 0.32      | Shipping: $10             |
 | C11                  | 0402                                                             | 1   | 1uF                |             | 0.24      | SO: $58, CSAE: $10        |
-| C12, C13             | 0603                                                             | 2   | 22uF               |             | 3.63      | SO: $68                   |
+| C12, C13             | 0603                                                             | 2   | 22uF               |             | 3.63      | SO: $70                   |
 | C5                   | 0603                                                             | 1   | 100nF              |             | 0.25      | PCB Shipping: $20         |
-| D1, D2, D3           | 0603                                                             | 3   | LED                |             | 0.50      | SO: $88                   |
+| D1, D2, D3           | 0603                                                             | 3   | LED                |             | 0.50      | SO: $100                   |
 | FB1                  | 0603                                                             | 1   | FerriteBead_Small  |             | 0.70      | And misc costs            |
 | J1                   | USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal         | 1   | USB_C_Receptacle   |             | 0.90      | Note: Price may increase  |
 | J2                   | PinHeader_1x04_P2.54mm_Vertical                                 | 1   | MLX90614           |             | 15.00     |                            |
 | J3                   | PinHeader_1x04_P2.54mm_Vertical                                 | 1   | OLED               |             | 3.00      |                            |
+| OLED-Extra           | I2C Display Module                                               | 1   | OLED Display        |             | 2.00      | Additional Display         |
 | J5                   | PinSocket_2x10_P2.54mm_Vertical                                 | 1   | Conn_02x10         |             | 5.00      | Final Total: $98          |
 | R1                   | 0402                                                             | 1   | 10K                |             | 0.30      |                            |
 | R10, R11, R4         | 0402                                                             | 3   | 330                |             | 0.50      |                            |
