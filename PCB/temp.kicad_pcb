@@ -9531,6 +9531,16 @@
 		(uuid "59985c3e-5cea-4fac-a4a3-e09b11896117")
 	)
 	(gr_line
+		(start 197 140.2)
+		(end 233 140.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Eco2.User")
+		(uuid "4698e726-5483-4bf9-bb32-cb203c6957f1")
+	)
+	(gr_line
 		(start 233 137)
 		(end 233 103)
 		(stroke

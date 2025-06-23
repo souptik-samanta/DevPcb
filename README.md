@@ -1,29 +1,59 @@
-# Infrared-gun
-* Its a non contact temperature meter made by [@souptik-samanta](https://github.com/souptik-samanta/)
+# Infrared Gun 
+A non-contact temperature meter made by [@souptik-samanta](https://github.com/souptik-samanta/)
 
-![alt text](img2/image-6.png)
+![Device photo](img2/image-6.png)
 
-# Features
-- CASE
-- STM32
-- Many GPIO pins breakout
-- embeded microcontroller
-- Has usb c
-- Has rtc capabilities
-- About the STM32 (STM32F103C8)
-- The STMicroelectronics STM32F103C8 is an ARM 32-bit Cortex-M3 Microcontroller, 72MHz, 64kB Flash, 20kB SRAM, PLL, Embedded Internal RC 8MHz and 32kHz, Real-Time Clock, Nested Interrupt Controller, Power Saving Modes, JTAG and SWD, 3 Synch.
+---
 
-# You would now ask why the hell a stm 32 and not a Arduino ?
-- more power
-- cheap
-- industrial ruged and tuff(tuff as I am)
-- More pins and needs less passive components compared to the other processors like Rp2040 or Arduino
-- see the pcb 
-# ![alt text](img2/image-7.png)
+## Features
+- Custom 3D-printed **Case**
+- Based on **STM32F103C8** microcontroller
+- Breakout for many **GPIO pins**
+- **USB-C** interface
+- **RTC** (Real-Time Clock) capabilities
+- Embedded microcontroller; low power consumption
 
-# BOM 
-here https://docs.google.com/spreadsheets/d/1CJmj2ZeR5zD6k4xkK5MPgWyc9Sze1-qekb7O28ZE8Ps/edit?usp=sharing
-# Cost of assembly
-30$ for 5 pcb from jlcpcb
-Case from HackClub shipping 10$
+### About the STM32F103C8
+The **STMicroelectronics STM32F103C8** is an ARM Cortex-M3 32-bit microcontroller:
+- 72MHz
+- 64kB Flash, 20kB SRAM
+- Internal 8MHz RC + 32kHz LSE
+- RTC, Power saving modes
+- JTAG + SWD debug
+- 3 synchronous serial interfaces
+
+---
+
+## Why STM32 and not Arduino?
+- More powerful and **cheaper**
+- **Tough** and industrial-grade (like me )
+- More GPIOs, fewer passives
+- Doesn’t need a bloated dev board like the RP2040 or ATmega
+
+### PCB Preview:
+![PCB image](img2/image-7.png)
+
+---
+
+## Cost Breakdown
+
+| Item                        | Cost (USD)  |
+|-----------------------------|-------------|
+| 5× PCBs (JLCPCB)            | $20         |
+| Component parts             | $40         |
+| Parts shipping              | $10         |
+| Case shipping (Hack Club)  | $10         |
+| **Total**                   | **~$80**    |
+
+[Full BOM (Google Sheets)](https://docs.google.com/spreadsheets/d/1CJmj2ZeR5zD6k4xkK5MPgWyc9Sze1-qekb7O28ZE8Ps/edit?usp=sharing)
+
+---
+
+## 🎞️ Exploded View Animation ()
+
+
+![exploded view](./img2/animation%20v2.gif) 
+
+
+---
 
