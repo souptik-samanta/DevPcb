@@ -40,19 +40,19 @@ The **STMicroelectronics STM32F103C8** is an ARM Cortex-M3 32-bit microcontrolle
 | Item                        | Cost (USD)  |
 |-----------------------------|-------------|
 | 5× PCBs (JLCPCB)            | $20         |
-| Component parts             | $40         |
+| Component parts             | $60         |
 | Parts shipping              | $10         |
 | Case shipping (Hack Club)  | $10         |
-| **Total**                   | **~$80**    |
+| **Total**                   | **~$100**    |
 
 [Full BOM (Google Sheets)](https://docs.google.com/spreadsheets/d/1CJmj2ZeR5zD6k4xkK5MPgWyc9Sze1-qekb7O28ZE8Ps/edit?usp=sharing)
 
 ---
 
-## 🎞️ Exploded View Animation(Wait for sometime)
+## 🎞️ Disintregreted View Animation(Wait for sometime)
 
 
-![exploded view](./img2/animation%20v2.gif) 
+![ disintregreted view](./img2/animation%20v2.gif) 
 
 
 ---
