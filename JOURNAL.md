@@ -4,7 +4,9 @@ author: "Souptik Samanta"
 description: "A custom-made device to measure temperature with an embedded MCU"
 created_at: "2025-06-15"
 ---
-
+###
+# TOTAL TIME TAKEN: 25Hrs
+###
 ## Day - 1 (3 hrs)  
 I read about STM32s and found out the Blue Pill (STM32F103C8) was best for me.  
 Started checking its datasheet and listing required components.
