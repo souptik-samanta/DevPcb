@@ -36,7 +36,7 @@ After long hours of work...
 **FINALLY FINISHED — HECK YEAH!**  
 <img src="./img/image-9.png" alt="Day 4/P3" style="border-radius: 12px; padding: 6px; max-width: 100%;">
 
-* MORE PICS  
+# MORE PICS  
 <img src="./img/image-3.png" alt="More 1" style="border-radius: 12px; padding: 6px; max-width: 100%;">
 <img src="./img/image-4.png" alt="More 2" style="border-radius: 12px; padding: 6px; max-width: 100%;">
 <img src="./img/image-5.png" alt="More 3" style="border-radius: 12px; padding: 6px; max-width: 100%;">
