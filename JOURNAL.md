@@ -35,3 +35,14 @@ FINALLY FINISHED HECK YEAH
 ![alt text](./img/image-6.png)
 ![alt text](./img/image-7.png)
 ![alt text](./img/image-8.png)
+* Day 5(4hr)
+Case done 
+![alt text](img2/image-1.png)
+The brain will go at back like this 
+![alt text](img2/image-2.png)
+I have also made the botton plae so the battery doesnt wobble and shi
+![alt text](img2/image-3.png)
+SLIDING MECH HERER TOO
+![alt text](img2/image-4.png)
+FINAL PIC
+![alt text](img2/image-5.png)
