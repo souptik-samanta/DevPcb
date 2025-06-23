@@ -58,7 +58,7 @@ The **STMicroelectronics STM32F103C8** is an ARM Cortex-M3 32-bit microcontrolle
 | J1                   | USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal         | 1   | USB_C_Receptacle   |             | 0.90      | Note: Price may increase  |
 | J2                   | PinHeader_1x04_P2.54mm_Vertical                                 | 1   | MLX90614           |             | 15.00     |                            |
 | J3                   | PinHeader_1x04_P2.54mm_Vertical                                 | 1   | OLED               |             | 3.00      |                            |
-| OLED-Extra           | I2C Display Module                                               | 1   | OLED Display        |             | 2.00      | Additional Display         |
+| OLED-Extra           | I2C Display Module                                               | 1   | OLED Display        |             | 2.00      |           |
 | J5                   | PinSocket_2x10_P2.54mm_Vertical                                 | 1   | Conn_02x10         |             | 5.00      | Final Total: $98          |
 | R1                   | 0402                                                             | 1   | 10K                |             | 0.30      |                            |
 | R10, R11, R4         | 0402                                                             | 3   | 330                |             | 0.50      |                            |
