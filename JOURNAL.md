@@ -5,11 +5,11 @@ description: "a custom-made device to measure temperature with an embedded MCU"
 created_at: "2025-06-15"
 ---
 
-* Day - 1 (3.5hrs)
+* Day - 1 (3hrs)
 I read about the smt 32's and found out the blue pill was best for me (stm32f103c8)
 and started checking its data sheet and listing required components.
 * Day - 2 (2.5hrs)
-Checked on varios dev pcbs collected data lol, and layed out the components not done ofc 
+Checked on varios dev pcbs collected data lol, and layed out the components on schm...not finished duh.
 pic of da day
 ![SCHM DAY 2](./img/image.png)
 * Day - 3 (4hrs)
@@ -22,9 +22,9 @@ Acc to the datasheet the capacitor value was given 20pF but i think thats wrong 
 I drew shapes for the placement of parts on the pcb and shape for pcb and scew the 2d image of the temperature gun also i will add a time/clock thingy on the dock with a usb c type port microcontroller with wifi preferebly/without also works lol.
 ![alt text](./img/image-1.png) 
 * Day 4/P2 (1hrs)
-Here is a pcb 
-![alt text](./img/image-10.png)
-* Day 4/P3 (6hrs)
+Here is a pcb after laying out and everything.
+![alt text](./img/image-2.png)
+* Day 4/P3 (4hrs)
 After long hours or work 
 FINALLY FINISHED HECK YEAH
 ![alt text](./img/image-9.png)
