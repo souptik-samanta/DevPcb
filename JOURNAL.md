@@ -1,48 +1,61 @@
 ---
 title: "Infrared Gun"
 author: "Souptik Samanta"
-description: "a custom-made device to measure temperature with an embedded MCU"
+description: "A custom-made device to measure temperature with an embedded MCU"
 created_at: "2025-06-15"
 ---
 
-* Day - 1 (3hrs)
-I read about the smt 32's and found out the blue pill was best for me (stm32f103c8)
-and started checking its data sheet and listing required components.
-* Day - 2 (2.5hrs)
-Checked on varios dev pcbs collected data lol, and layed out the components on schm...not finished duh.
-pic of da day
-![SCHM DAY 2](./img/image.png)
-* Day - 3 (4hrs)
-Finished making the shcmeatic
-Put the right values capacitor said in Datasheet (followed some shetchy schmatic from taobao)
-I will later check everything before ordering dw..
-Acc to the datasheet the capacitor value was given 20pF but i think thats wrong i will check on that later tho..
-![Schm day 3](./img/image.png)
-* Day - 4/P1 (1.2Hrs)
-I drew shapes for the placement of parts on the pcb and shape for pcb and scew the 2d image of the temperature gun also i will add a time/clock thingy on the dock with a usb c type port microcontroller with wifi preferebly/without also works lol.
-![alt text](./img/image-1.png) 
-* Day 4/P2 (1hrs)
-Here is a pcb after laying out and everything.
-![alt text](./img/image-2.png)
-* Day 4/P3 (4hrs)
-After long hours or work 
-FINALLY FINISHED HECK YEAH
-![alt text](./img/image-9.png)
-* MORE PICS
-![alt text](./img/img/image-3.png)
-![alt text](./img/image-4.png)
-![alt text](./img/image-5.png)
-![alt text](./img/image-6.png)
-![alt text](./img/image-7.png)
-![alt text](./img/image-8.png)
-* Day 5(4hr)
-Case done 
-![alt text](img2/image-1.png)
-The brain will go at back like this 
-![alt text](img2/image-2.png)
-I have also made the botton plae so the battery doesnt wobble and shi
-![alt text](img2/image-3.png)
-SLIDING MECH HERER TOO
-![alt text](img2/image-4.png)
-FINAL PIC
-![alt text](img2/image-5.png)
+* Day - 1 (3hrs)  
+I read about STM32s and found out the Blue Pill (STM32F103C8) was best for me.  
+Started checking its datasheet and listing required components.
+
+* Day - 2 (2.5hrs)  
+Checked out various dev PCBs, collected data lol, and laid out components on schematic... not finished duh.  
+**Pic of the day**  
+<img src="./img/image.png" alt="SCHM DAY 2" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+
+* Day - 3 (4hrs)  
+Finished making the schematic.  
+Put in the correct capacitor values from the datasheet (also followed a sketchy schematic from Taobao).  
+Will double-check everything before ordering dw...  
+According to the datasheet, the capacitor value was 20pF, but I think that’s wrong — will verify later.  
+<img src="./img/image.png" alt="Schm day 3" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+
+* Day - 4/P1 (1.2hrs)  
+Drew shapes for component placement and the overall PCB outline.  
+Sketched the 2D layout of the temperature gun.  
+Also planning to add a clock/timer on the dock with a USB-C port and a microcontroller (preferably with Wi-Fi — not a must though lol).  
+<img src="./img/image-1.png" alt="Day 4/P1" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+
+* Day 4/P2 (1hr)  
+Here’s the PCB after layout and placement.  
+<img src="./img/image-2.png" alt="Day 4/P2" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+
+* Day 4/P3 (4hrs)  
+After long hours of work...  
+**FINALLY FINISHED — HECK YEAH!**  
+<img src="./img/image-9.png" alt="Day 4/P3" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+
+* MORE PICS  
+<img src="./img/img/image-3.png" alt="More 1" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+<img src="./img/image-4.png" alt="More 2" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+<img src="./img/image-5.png" alt="More 3" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+<img src="./img/image-6.png" alt="More 4" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+<img src="./img/image-7.png" alt="More 5" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+<img src="./img/image-8.png" alt="More 6" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+
+* Day 5 (4hrs)  
+**Case done!**  
+<img src="img2/image-1.png" alt="Case" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+
+The brain will go at the back like this:  
+<img src="img2/image-2.png" alt="Brain position" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+
+I also made the bottom plate so the battery doesn't wobble and stuff.  
+<img src="img2/image-3.png" alt="Bottom plate" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+
+**Sliding mechanism here too!**  
+<img src="img2/image-4.png" alt="Sliding mechanism" style="border-radius: 12px; padding: 6px; max-width: 100%;">
+
+**FINAL PIC**  
+<img src="img2/image-5.png" alt="Final pic" style="border-radius: 12px; padding: 6px; max-width: 100%;">
