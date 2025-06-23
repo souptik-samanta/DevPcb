@@ -1,7 +1,7 @@
 # Infrared-gun
 Its a non contact temperature meter made by @souptik-samanta
 ![alt text](img2/image-6.png)
-* Features
+# * Features
 - CASE
 - STM32
 - Many GPIO pins breakout
