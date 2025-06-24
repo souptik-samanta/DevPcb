@@ -52,26 +52,26 @@ After long hours of work...
 
 ## Day - 5 (4 hrs)  
 **Case done!**  
-![Case](img2/image-1.png)
+![Case](/img/img2/image-1.png)
 
 The brain will go at the back like this:  
-![Brain position](img2/image-2.png)
+![Brain position](./img/img2/image-2.png)
 
 I also made the bottom plate so the battery doesn't wobble and stuff.  
-![Bottom plate](img2/image-3.png)
+![Bottom plate](./img/img2/image-3.png)
 
 **Sliding mechanism here too!**  
-![Sliding mechanism](img2/image-4.png)
+![Sliding mechanism](./img/img2/image-4.png)
 
 **FINAL PIC**  
-![Final pic](img2/image-5.png)
+![Final pic](./img/img2/image-5.png)
 
 ---
 
 ## Day - 5 (4 hrs, continued)  
 The last case wasn’t that good,  
 so I spent 4ish hours and came up with this:  
-![New Case](image.png)
+![New Case](./img/img3/image.png)
 
 I took inspo from:  
 [Medical Device Enclosure on GrabCAD](https://grabcad.com/library/medical-device-enclosure-made-with-freecad-1)
@@ -82,4 +82,4 @@ With this, I mark the end of this project.
 ## Day - 5 (1 hr)  
 Made this animation so people can see it properly:
 
-![Final Animation](./img2/animation%20v2.gif)
+![Final Animation](./img/img2/animation%20v2.gif)

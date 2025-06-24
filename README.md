@@ -1,7 +1,7 @@
 # Infrared Gun 
 A non-contact temperature meter made by [@souptik-samanta](https://github.com/souptik-samanta/)
 
-![Device photo](img2/image-6.png)
+![Device photo](./img/img2/image-6.png)
 
 ---
 
@@ -31,7 +31,7 @@ The **STMicroelectronics STM32F103C8** is an ARM Cortex-M3 32-bit microcontrolle
 - Doesn’t need a bloated dev board like the RP2040 or ATmega
 
 ### PCB Preview:
-![PCB image](img2/image-7.png)
+![PCB image](./img/img2/image-7.png)
 
 ---
 
@@ -83,34 +83,34 @@ The **STMicroelectronics STM32F103C8** is an ARM Cortex-M3 32-bit microcontrolle
 ## 🎞️ Disintregreted View Animation(Wait for sometime)
 
 
-![ disintregreted view](./img2/animation%20v2.gif) 
+![ disintregreted view](./img/img2/animation%20v2.gif) 
 
 ## JLCPCB RENDER
 
 ###
 
-![alt text](<./img2/sm_red_bottom (1).png>)
+![alt text](<./img/img2/sm_red_bottom (1).png>)
 
 ###
 
 
 ###
 
-![alt text](./img2/sm_red_top.png)
+![alt text](./img/img2/sm_red_top.png)
 
 ###
 
 
 ###
 
-![alt text](./img2/sm_white_top.png)
+![alt text](./img/img2/sm_white_top.png)
 
 ###
 
 
 ###
 
-![alt text](./img2/sm_white_bottom.png)
+![alt text](./img/img2/sm_white_bottom.png)
 
 ###
 ---
