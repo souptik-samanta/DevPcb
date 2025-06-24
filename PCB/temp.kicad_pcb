@@ -1389,10 +1389,11 @@
 	(footprint "LOGO"
 		(layer "F.Cu")
 		(uuid "0fc5b889-1101-4745-a9c9-3236dcf1f32a")
-		(at 160 119.846359)
+		(at 215.87 110.29)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "1b1669c7-3cd3-470a-8e3c-8dc2d66bfc80")
 			(effects
 				(font
