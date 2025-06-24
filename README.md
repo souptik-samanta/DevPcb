@@ -86,17 +86,32 @@ The **STMicroelectronics STM32F103C8** is an ARM Cortex-M3 32-bit microcontrolle
 ![ disintregreted view](./img2/animation%20v2.gif) 
 
 ## JLCPCB RENDER
+
 ###
+
 ![alt text](<./img2/sm_red_bottom (1).png>)
+
 ###
+
+
 ###
+
 ![alt text](./img2/sm_red_top.png)
+
 ###
+
+
 ###
+
 ![alt text](./img2/sm_white_top.png)
+
 ###
+
+
 ###
+
 ![alt text](./img2/sm_white_bottom.png)
+
 ###
 ---
 
