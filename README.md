@@ -73,7 +73,7 @@ The **STMicroelectronics STM32F103C8** is an ARM Cortex-M3 32-bit microcontrolle
 | U3                   | SOT-23-6_Handsoldering                                           | 1   | SRV05-4            |             | 1.00      |                            |
 | Y1                   | Crystal_SMD_3225-4Pin_3.2x2.5mm                                  | 1   | 8MHz               |             | 0.80      |                            |
 | Y3                   | Crystal_SMD_3215-2Pin_3.2x1.5mm                                  | 1   | 32.768            |             | 1.20      |                            |
-
+battries from burger 5$$
 ###
 
 [Full BOM (Google Sheets)](https://docs.google.com/spreadsheets/d/1CJmj2ZeR5zD6k4xkK5MPgWyc9Sze1-qekb7O28ZE8Ps/edit?usp=sharing)
