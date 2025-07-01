@@ -52,7 +52,8 @@ The **STMicroelectronics STM32F103C8** is an ARM Cortex-M3 32-bit microcontrolle
 | C10, C6, C7, C8, C9  | 0402                                                             | 5   | 100nF              |             | 0.32      | Shipping: $10             |
 | C11                  | 0402                                                             | 1   | 1uF                |             | 0.24      | SO: $58, CSAE: $10        |
 | C12, C13             | 0603                                                             | 2   | 22uF               |             | 3.63      | SO: $70                   |
-| C5                   | 0603                                                             | 1   | 100nF              |             | 0.25      | PCB Shipping: $20         |
+| C5  | 0603                                                             | 1   | 100nF              |             | 0.25      | PCB Shipping: $20         |
+|C|Charger"1"10ish $||
 | D1, D2, D3           | 0603                                                             | 3   | LED                |             | 0.50      | SO: $100                   |
 | FB1                  | 0603                                                             | 1   | FerriteBead_Small  |             | 0.70      | And misc costs            |
 | J1                   | USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal         | 1   | USB_C_Receptacle   |             | 0.90      | Note: Price may increase  |
